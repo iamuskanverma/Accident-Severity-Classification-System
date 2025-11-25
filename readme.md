@@ -1,4 +1,5 @@
 # 🚗 Accident Severity Classification System
+Live Website :- https://accident-severity-classification-sy.vercel.app/
 
 An AI-powered web application that analyzes accident images and classifies damage severity levels using deep learning. Built with Streamlit and designed for insurance companies, auto repair shops, and emergency responders.
 
@@ -301,7 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-**Muskan **
+**Muskan Verma**
 
 - GitHub: [@iamuskanverma](https://github.com/iamuskanverma)
 - Telegram-[@iamuskan_verma]
